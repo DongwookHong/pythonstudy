@@ -1,3 +1,4 @@
+
 num = int(input())
 
 str = list(map(str,input().split()))
